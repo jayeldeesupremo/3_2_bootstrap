@@ -1,3 +1,5 @@
-Name: Jhon Lloyd Dacayo
-Course: BSIT 3-2
-Bootstrap Product
+Name : Jhon Lloyd Dacayo
+
+Course & Block : BSIT 3-2
+
+Description : Bootstrap Products 
